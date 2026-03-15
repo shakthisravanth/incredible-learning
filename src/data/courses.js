@@ -75,7 +75,7 @@ export const courses = [
                     {
                         id: "c3-d1-v1",
                         name: 'Introduction to CSS',
-                        url: 'https://www.youtube.com/watch?v=n4R2E7O-Ngo'
+                        url: 'https://www.youtube.com/watch?v=MLU5ZEp9YDo'
                     }
                 ]
             },

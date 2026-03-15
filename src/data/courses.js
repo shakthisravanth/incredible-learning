@@ -87,7 +87,7 @@ export const courses = [
                     {
                         id: "c3-d2-v1",
                         name: 'Flexbox Full Course',
-                        url: 'https://www.youtube.com/watch?v=fYq5PXgSsbE'
+                        url: 'https://www.youtube.com/watch?v=MLU5ZEp9YDo'
                     }
                 ]
             }

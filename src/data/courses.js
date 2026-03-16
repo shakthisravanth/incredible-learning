@@ -93,6 +93,26 @@ export const courses = [
             }
         ]
     },
+    {
+        id: "course-4",
+        name: 'Incredible course',
+        description: 'Learn Node.js and build server-side applications with Express.',
+        days: [
+            {
+                id: "c4-d1",
+                dayNumber: 1,
+                title: 'Day 1 - Introduction to Incredible course',
+                links: [
+                    {
+                        id: "c4-d1-v1",
+                        name: 'Welcome to Incredible class ?',
+                        url: 'https://www.youtube.com/watch?v=TlB_eWDSMt4',
+                        notesUrl: "https://excalidraw.com/#json=0usZk_4FQhkOX_-sMIGLx,U3l8nIq0jPbKUH8XPbPn6w"
+                    }
+                ]
+            }
+        ]
+    }
 ];
 
 // Helper function to get a course by ID

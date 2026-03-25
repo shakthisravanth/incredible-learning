@@ -127,7 +127,7 @@ function CourseDetail({ course, onBack }) {
               <div className="featured-video">
                 <div className="video-player">
                   <iframe
-                    src={`https://www.youtube.com/embed/${getVideoId(selectedVideo.url)}?modestbranding=1&rel=0&iv_load_policy=3&showinfo=0&controls=1&autohide=1&disablekb=1&loop=1&playlist=${getVideoId(selectedVideo.url)}`}
+                    src={`https://www.youtube.com/embed/${getVideoId(selectedVideo.url)}?modestbranding=1&rel=0&iv_load_policy=3&showinfo=0&controls=1&autohide=1&disablekb=0&loop=1&playlist=${getVideoId(selectedVideo.url)}`}
                     title={selectedVideo.name}
                     frameBorder="0"
                     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture"

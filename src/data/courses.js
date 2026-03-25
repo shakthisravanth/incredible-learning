@@ -112,6 +112,26 @@ export const courses = [
                 ]
             }
         ]
+    },
+    {
+        id: "course-5",
+        name: 'Learn Git and GitHub',
+        description: 'Git and GitHub for version control and collaboration.',
+        days: [
+            {
+                id: "c5-d1",
+                dayNumber: 1,
+                title: 'Day 1 - Introduction to Incredible course',
+                links: [
+                    {
+                        id: "c5-d1-v1",
+                        name: 'Welcome to Incredible class ?',
+                        url: 'https://www.youtube.com/watch?v=vwj89i2FmG0',
+                        notesUrl: "https://excalidraw.com/#json=0usZk_4FQhkOX_-sMIGLx,U3l8nIq0jPbKUH8XPbPn6w"
+                    }
+                ]
+            }
+        ]
     }
 ];
 
